@@ -25,7 +25,7 @@ public class DBTest_Demo {
 
 	public int testconnection_mysql(String fileName, InputStream iS) {
 		// TODO Auto-generated method stub
-		String connection_host = "localhost:3306";
+		String connection_host = "localhost:3377";
 		Connection connect = null;
         PreparedStatement preparedStatement = null;
         ResultSet rs;
