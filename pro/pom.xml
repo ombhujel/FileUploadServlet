@@ -53,7 +53,7 @@
 				<artifactId>tomcat7-maven-plugin</artifactId>
 				<version>2.1</version>
 				<configuration>
-					<url>http://localhost:8080/manager/text</url>
+					<url>http://localhost:8880/manager/text</url>
 					<server>my-tomcat</server>
 					<path>/pro</path>
         			<username>admin</username>
